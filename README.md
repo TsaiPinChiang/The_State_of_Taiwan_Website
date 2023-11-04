@@ -9,7 +9,7 @@ It combines a dataset which is a collection of sovereignty-related entries (the 
 
 #### Special thanks
 
-The website is build with the utilizing the free Material Tailwind UI Kit based on Tailwind CSS and React.
+The website is built utilizing the free Material Tailwind UI Kit based on Tailwind CSS and React.
 We have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
 - [Material Tailwind](https://material-tailwind.com/) - Material Tailwind is an easy to use components library for Tailwind CSS and Material Design.
