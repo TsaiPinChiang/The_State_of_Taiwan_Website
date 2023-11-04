@@ -1,6 +1,6 @@
 # [State of Taiwan](https://stateoftaiwan.ea.sinica.edu.tw/home)
 
-![image](https://github.com/TsaiPinChiang/Website-State_of_Taiwan/assets/89137600/e5dcb098-14ec-4d4d-9099-5faca611ed87)
+![Uploading image.png…]()
 
 State of Taiwan website is a collobaration with the Institute of European and American Studies, Academia Sinica.
 The website aims to provide a comprehensive understanding of Taiwan's position in the global community.
